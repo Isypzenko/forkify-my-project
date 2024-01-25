@@ -130,4 +130,3 @@ export const uploadRecipe = async function (newRecipe) {
     throw error;
   }
 };
-console.log("New Feature");
